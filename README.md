@@ -1,5 +1,9 @@
 # Survivor Soul Songs
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 Music and healing platform for survivors
 
 ## Features
